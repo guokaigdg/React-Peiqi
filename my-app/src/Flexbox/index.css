@@ -1,0 +1,31 @@
+.box{
+    display: flex;
+    width: 100%;
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+    opacity: 0.8;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    background-color: pink;
+
+}
+.box1{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    flex-direction: row;
+    justify-content: center;
+    background-color:palegreen;
+}
+.box2{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    flex-direction: row;
+    justify-content: center;
+    background-color:powderblue;
+}
